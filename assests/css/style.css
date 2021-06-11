@@ -9,4 +9,5 @@
   --hue-color: ;
 
   /* HSL COLOR MODE */
+  --first-color: hsl(250, 69%, 61%);
 }
